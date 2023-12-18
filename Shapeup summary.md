@@ -1,7 +1,7 @@
 
 ## Chapter 2: Principles of Shaping
 
-- Need to shape work at the right level of abstraction: not too vague and not too concrete.
+- Need to shape work at the right level of abstraction: not too vague and not too concrete
     
 
 ### Wireframes are too concrete

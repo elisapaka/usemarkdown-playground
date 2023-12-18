@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shapeup summary.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shapeup summary.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shapeup summary.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shapeup summary.md"
+                "file": "README.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "3424d236bd840110",
   "lastOpenFiles": [
-    "Shapeup summary.md"
+    "Shapeup summary.md",
+    "README.md"
   ]
 }
