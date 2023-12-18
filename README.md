@@ -5,29 +5,32 @@ A playground for trying out usemarkdown tutorial
 
 ## Chapter 2: Principles of Shaping
 
-- Need to shape work at the right level of abstraction: not too vague and not too concrete
-    
-### Wireframes are too concrete
+> When we shape the work, we need to do it at the right level of abstraction: not too vague and not too concrete.
 
-- Do not define too much detail too early, need to leave designers room for creativity (hard for people to design something different if you’re giving them something concrete from the start)
-    
-- Also leads to estimation errors bc team will have to solve hidden complexities of specific design choices
-    
+Do not define too much detail too early, so as to leave designers room for creativity. It's hard for people to design something different if you’re giving them something concrete from the start. 
 
-###  Words are too abstract
+Do not define projects in a few words (e.g. ‘build calendar view’), as it's too vague. You need context in order to decide which trade-offs to make.
 
-- Don’t define projects in a few words (e.g. ‘build calendar view’), no one knows what it means; need more info to make trade-offs. You need context to solve a problem
-    
+Shaped work is *rough* (leaves room for designers to apply their judgment and expertise); it's *solved* (the main elements of the solution are there); and it's *bounded* (indicates what *not* to do, how much time to spend on it).
 
-Case study: The Dot Grid Calendar
+### Who shapes?
 
-- [how to shape a project at the right level of detail]
-    
-- Customers asking for ‘calendar view’; not willing to invest 6 months to build ‘full version’, so had to choose specific features in scope and leave others out
-    
-- Properties of the shaped work:
-    
+Shaping requires a combination of skills. It combines design work, technical work (judging what's possible, what's easy and what's hard), and strategic work (being critical about the problem you're trying to solve, e.g. what counts as success). If you're not a generalist, you should collaborate with others who have these skills.
 
-- Property 1: it’s rough – leaves room for designers and programmers to apply their judgment and expertise
-    
-- Property 2:
+### Two tracks
+
+Shaping and building should be kept as separate tracks within a cycle to manage the risk and uncertainty involved in shaping.
+
+### Steps to shaping
+
+(These are covered in the next four chapters)
+
+1. **Set boundaries.**
+2. **Rough out the elements.**
+3. **Address risks and rabbit holes.**
+4. **Write the pitch**.
+
+## Chapter 3: Set Boundaries
+
+
+
