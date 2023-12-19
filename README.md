@@ -1,6 +1,3 @@
-# usemarkdown-playground
-A playground for trying out usemarkdown tutorial
-
 # Shapeup Summary
 
 Shapeup is a guide for doing product development, based on the author's experience at Basecamp. Although it refers to software development, most of the principles and techniques behind it are widely applicable and may be of interest to staff at Datopian and Life Itself. 
@@ -188,6 +185,8 @@ If you need to, you can embed sketches into the pitch to help people see what th
 > The next step will be to make the case that this pitch describes a bet worth making.
 
 It is recommended to post the pitch somewhere that stakeholders can read in it their own time, ahead of sitting down at the `betting table` (a meeting where stakeholders decide which pitches to bet on in the next cycle.)
+
+
 
 
 
