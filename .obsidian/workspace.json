@@ -95,7 +95,7 @@
               "type": "backlink",
               "state": {
                 "file": "README.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,

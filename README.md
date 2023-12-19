@@ -1,8 +1,11 @@
-# Shapeup Summary
+# Summary of Shapeup by Ryan Singer from Basecamp
 
-Shapeup is a guide for doing product development, based on the author's experience at Basecamp. Although it refers to software development, most of the principles and techniques behind it are widely applicable and may be of interest to staff at Datopian and Life Itself. 
+[Shapeup: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup) is a guide for doing product development, based on the author's experience at Basecamp. Although it refers to software development, most of the principles and techniques behind it are widely applicable and may be of interest to staff at Datopian and Life Itself. 
 
 This summary focuses on the first part of the book, which is about how to 'shape' work. Shaping is a process for defining the key elements of a solution, before deciding to commit to the project ('betting') and start working on it ('building').
+
+## Table of Contents
+
 
 
 ## Chapter 2: Principles of Shaping
